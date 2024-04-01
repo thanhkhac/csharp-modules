@@ -1,0 +1,14 @@
+F:\csharp\csharp-modules\app-path\bin\Debug\net6.0\app-path.exe
+F:\csharp\csharp-modules\app-path\bin\Debug\net6.0\app-path.deps.json
+F:\csharp\csharp-modules\app-path\bin\Debug\net6.0\app-path.runtimeconfig.json
+F:\csharp\csharp-modules\app-path\bin\Debug\net6.0\app-path.dll
+F:\csharp\csharp-modules\app-path\bin\Debug\net6.0\app-path.pdb
+F:\csharp\csharp-modules\app-path\obj\Debug\net6.0\app-path.GeneratedMSBuildEditorConfig.editorconfig
+F:\csharp\csharp-modules\app-path\obj\Debug\net6.0\app-path.AssemblyInfoInputs.cache
+F:\csharp\csharp-modules\app-path\obj\Debug\net6.0\app-path.AssemblyInfo.cs
+F:\csharp\csharp-modules\app-path\obj\Debug\net6.0\app-path.csproj.CoreCompileInputs.cache
+F:\csharp\csharp-modules\app-path\obj\Debug\net6.0\app-path.dll
+F:\csharp\csharp-modules\app-path\obj\Debug\net6.0\refint\app-path.dll
+F:\csharp\csharp-modules\app-path\obj\Debug\net6.0\app-path.pdb
+F:\csharp\csharp-modules\app-path\obj\Debug\net6.0\app-path.genruntimeconfig.cache
+F:\csharp\csharp-modules\app-path\obj\Debug\net6.0\ref\app-path.dll
